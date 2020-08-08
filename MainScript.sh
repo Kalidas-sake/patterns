@@ -12,3 +12,4 @@ else
 	echo "Invalid string"
 fi
 
+echo "First test case finished"
