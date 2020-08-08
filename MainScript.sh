@@ -13,3 +13,14 @@ else
 fi
 
 echo "First test case finished"
+
+echo "Second test case"
+
+if [ true ]
+then
+	echo "Success"
+else
+	echo "Fail"
+fi
+
+echo "Second test case finished"
